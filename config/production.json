@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "PetersonApps",
+  "mongoUri": "mongodb+srv://Bogdan:asd123456@cluster0.trslh.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
